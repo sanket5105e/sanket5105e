@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanket5105e
 - 👀 I’m interested in Learning New Languages
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any project for free 
+- 💞️ I’m looking to collaborate on any project
 - 📫 U Can contact me on Sanketlokhande589@gmail.com
 
 <!---
